@@ -1,0 +1,6 @@
+body {
+  position: fixed; /* or absolute */
+  top: 25%;
+  left: 7%;
+  background-color: rgb(204, 255, 255);
+}
